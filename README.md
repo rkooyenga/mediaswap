@@ -2,7 +2,7 @@
 
 ### Desktop non-app[](#desktop-non-app)
 
-[MediaSwap](https://deadflowers.github.io/mediaswap/) is a robust wrapper designed to bring the power of **FFmpeg** and **ImageMagick** to your desktop. The GUI is familiar because it’s yours: the shell and file manager you are already using. If you can copy, cut, paste with your mouse, you already know how to use MediaSwap to bulk transform your media files.
+[MediaSwap](https://deadflowers.github.io/mediaswap/) is a robust wrapper designed to bring the power of **FFmpeg** and **ImageMagick** to your desktop. The GUI is familiar because it’s yours: the shell and file manager you are already using. If you can select and right click on files with your mouse or trackpad, you already know how to use MediaSwap to bulk transform your media files.
 
 ---
 
